@@ -114,3 +114,17 @@ BridgeLabz-Training/
   
 ---
 
+## 📅 Week 2: Strings and extra programming Fundamentals & practice
+
+### 🗓 Day 1 – Java Strings
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 1 – Strings](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
