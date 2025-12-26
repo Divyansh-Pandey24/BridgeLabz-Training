@@ -158,3 +158,20 @@ BridgeLabz-Training/
   
 🔗 **Code Link:**  
 👉 [Day 2 – Extras](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
+
+### 🗓 Day 3 – Leet Code and Scenario Based problems  
+*(Date: 24-Dec-2025)*
+
+- Practiced and Solved Leet Code questions on Arrays.
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**
+👉 [Day 3 – Leetcode](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+
+👉 [Day 3 – Scenario based](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-1)
+
+---
