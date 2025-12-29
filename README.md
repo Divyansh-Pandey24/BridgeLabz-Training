@@ -79,7 +79,7 @@ This branch contains hands-on practice covering Java fundamentals, problem-solvi
 
 ## 📅 Week 2: Strings & Extra Programming Fundamentals
 
-### Day 7 – Java Strings (22-Dec-2025)
+### Day 1 – Java Strings (22-Dec-2025)
 - String creation techniques
 - String immutability
 - Common `String` class methods
@@ -87,7 +87,7 @@ This branch contains hands-on practice covering Java fundamentals, problem-solvi
 
 ---
 
-### Day 8 – Extra Built-in Functions & Advanced String Practice (23-Dec-2025)
+### Day 2 – Extra Built-in Functions & Advanced String Practice (23-Dec-2025)
 - Java built-in utility classes:
   - `Math`
   - `Random`
