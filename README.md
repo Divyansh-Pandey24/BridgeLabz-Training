@@ -204,3 +204,15 @@ BridgeLabz-Training/
 👉 [Day 5 – Strings](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
 
 ---
+
+### 🗓 Day 6 – Scenario-Based problems
+**(Date: 29-Dec-2025)**
+
+- Solved **5 scenario-based problems** using Java.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day-3) 
+
+---
