@@ -205,7 +205,9 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 – Scenario-Based problems
+## 📅 Week 3: Practicle Applications and problems
+
+### 🗓 Day 1 – Scenario-Based problems
 **(Date: 29-Dec-2025)**
 
 - Solved **5 scenario-based problems** using Java.
