@@ -114,7 +114,7 @@ BridgeLabz-Training/
   
 ---
 
-## 📅 Week 2: Strings and extra programming Fundamentals & practice
+## 📅 Week 2: Strings programming Fundamentals & practice
 
 ### 🗓 Day 1 – Java Strings
 **(Date: 22-Dec-2025)**
@@ -131,7 +131,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 2 – Extra Built-in Functions & String Practice  
+### 🗓 Day 2 – Built-in Functions & String Practice  
 **(Date: 23-Dec-2025)**
   
 - Practiced Java built-in classes such as `Math` and `Random`.
@@ -157,7 +157,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
   
 🔗 **Code Link:**  
-👉 [Day 2 – Extras](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 2 – Built In](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 
