@@ -77,7 +77,7 @@ This branch contains hands-on practice covering Java fundamentals, problem-solvi
 
 ---
 
-## 📅 Week 2: Strings & Extra Programming Fundamentals
+## 📅 Week 2: Strings Programming Fundamentals
 
 ### Day 1 – Java Strings (22-Dec-2025)
 - String creation techniques
@@ -87,7 +87,7 @@ This branch contains hands-on practice covering Java fundamentals, problem-solvi
 
 ---
 
-### Day 2 – Extra Built-in Functions & Advanced String Practice (23-Dec-2025)
+### Day 2 – Built-in Functions & Advanced String Practice (23-Dec-2025)
 - Java built-in utility classes:
   - `Math`
   - `Random`
