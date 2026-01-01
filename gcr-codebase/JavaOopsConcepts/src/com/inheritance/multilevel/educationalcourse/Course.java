@@ -1,0 +1,22 @@
+package com.inheritance.multilevel.educationalcourse;
+
+public class Course {
+
+    protected String courseName;
+    
+    // duration in hours
+    protected int duration; 
+
+    // Constructor to initialize course details
+    
+    public Course(String courseName, int duration) {
+        this.courseName = courseName;
+        this.duration = duration;
+    }
+
+    // Method to display course information
+    public void displayCourseDetails() {
+        System.out.println("Course Name : " + courseName);
+        System.out.println("Duration    : " + duration + " hours");
+    }
+}
