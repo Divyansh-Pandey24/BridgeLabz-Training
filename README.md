@@ -175,7 +175,7 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Array Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+👉 [LeetCode Array Problems](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ### 🗓 Day 10 – LeetCode-based Practice  
 **(Date: 25-Dec-2025)**
