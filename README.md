@@ -59,6 +59,12 @@ BridgeLabz-Training/
 │   │               └── 📁 queues/            # First-In-First-Out (FIFO)
 │   │               └── 📁 hashmaps/          # Key-Value pairs
 │   │               └── 📁 sorting/           # Sorting algorithm
+│   │               └── 📁 stringbuffer/              
+│   │               └── 📁 stringbuilder/    
+│   │               └── 📁 linearsearch/      # Searching algorithm
+│   │               └── 📁 binarysearch/      # Searching algorithm
+│   │               └── 📁 filereader/          
+│   │               └── 📁 inputstreamreader/          
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
@@ -100,6 +106,7 @@ BridgeLabz-Training/
 |  15 | 02-Jan      | DSA Basics & LinkedList        | DSA concepts, LinkedList and its types |
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
+|  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 
 ---
 
@@ -129,6 +136,8 @@ BridgeLabz-Training/
 - **Queues**: FIFO principle, enqueue/dequeue operations, queue variants
 - **HashMaps**: Key-value storage, hashing concept, basic operations
 - **Sorting**: Basic sorting algorithms and comparison-based sorting concepts
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
   
 ---
 
@@ -160,6 +169,7 @@ BridgeLabz-Training/
 - 📌 [Queues](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/queue)
 - 📌 [HashMaps](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
 - 📌 [Sorting Algorithms](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching Algorithms, String & I/O utilities]()
 ---
 
 ## 🎓 Learnings & Best Practices
