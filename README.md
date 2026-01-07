@@ -169,7 +169,7 @@ BridgeLabz-Training/
 - 📌 [Queues](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/queue)
 - 📌 [HashMaps](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
 - 📌 [Sorting Algorithms](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
-- 📌 [Searching Algorithms, String & I/O utilities]()
+- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com)
 ---
 
 ## 🎓 Learnings & Best Practices
