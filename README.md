@@ -64,7 +64,8 @@ BridgeLabz-Training/
 │   │               └── 📁 linearsearch/      # Searching algorithm
 │   │               └── 📁 binarysearch/      # Searching algorithm
 │   │               └── 📁 filereader/          
-│   │               └── 📁 inputstreamreader/          
+│   │               └── 📁 inputstreamreader/
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation   
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
@@ -107,6 +108,7 @@ BridgeLabz-Training/
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
 ---
 
@@ -138,7 +140,7 @@ BridgeLabz-Training/
 - **Sorting**: Basic sorting algorithms and comparison-based sorting concepts
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
-  
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 ---
 
 ## 🔗 Quick Links
@@ -170,6 +172,7 @@ BridgeLabz-Training/
 - 📌 [HashMaps](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
 - 📌 [Sorting Algorithms](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 ---
 
 ## 🎓 Learnings & Best Practices
