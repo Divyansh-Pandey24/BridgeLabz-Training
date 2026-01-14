@@ -128,7 +128,15 @@ BridgeLabz-Training/
 ## 🧮 Section C : LeetCode-based Problems Progress
 ### 🗓 Day 21 – LeetCode-based Practice  
 **(Date: 11-Jan-2026)**
-- Practiced **4** DSA problems.
+- Practiced **2** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Arrays](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
+
+### 🗓 Day 22 – LeetCode-based Practice  
+**(Date: 13-Jan-2026)**
+- Practiced **2** DSA problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
