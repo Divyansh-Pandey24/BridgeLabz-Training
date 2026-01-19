@@ -76,6 +76,10 @@ BridgeLabz-Training/
 |
 └── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
+│   │  └── 📁 JavaCollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               └── 📁 generics/ 
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -123,9 +127,10 @@ BridgeLabz-Training/
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
 ### **Week 4 : Collections Framework in Java**
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|     |             |                                |                                        |
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+
 ---
 
 ##  Key Concepts Covered
@@ -161,7 +166,7 @@ BridgeLabz-Training/
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving.
 
  ### Collections Framework (java-collections-practice)
- 
+ - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
 ---
 
 ## 🔗 Quick Links
@@ -198,7 +203,7 @@ BridgeLabz-Training/
 - 📌 [LeetCode Solutions](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/arrays)
 
 ### `java-collections-practice` :
-
+- 📌 [Generics](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
 ---
 
 ## 🎓 Learnings & Best Practices
