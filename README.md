@@ -79,7 +79,8 @@ BridgeLabz-Training/
 │   │  └── 📁 JavaCollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               └── 📁 generics/ 
+│   │               └── 📁 generics/
+│   │               └── 📁 collections/ 
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -130,6 +131,7 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 
 ---
 
@@ -167,6 +169,14 @@ BridgeLabz-Training/
 
  ### Collections Framework (java-collections-practice)
  - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+
 ---
 
 ## 🔗 Quick Links
@@ -204,6 +214,7 @@ BridgeLabz-Training/
 
 ### `java-collections-practice` :
 - 📌 [Generics](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
+- 📌 [Collections](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
 ---
 
 ## 🎓 Learnings & Best Practices
