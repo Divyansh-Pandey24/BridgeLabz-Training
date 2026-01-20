@@ -80,7 +80,8 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               └── 📁 generics/
-│   │               └── 📁 collections/ 
+│   │               └── 📁 collections/
+│   │               └── 📁 streams/ 
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -132,6 +133,7 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 
 ---
 
@@ -176,6 +178,7 @@ BridgeLabz-Training/
 - **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 
 ---
 
@@ -215,6 +218,10 @@ BridgeLabz-Training/
 ### `java-collections-practice` :
 - 📌 [Generics](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
 - 📌 [Collections](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
+- 📌 [I/O Streams](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
+
+---
+
 ---
 
 ## 🎓 Learnings & Best Practices
