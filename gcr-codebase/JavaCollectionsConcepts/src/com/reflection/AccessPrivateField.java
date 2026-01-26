@@ -4,7 +4,7 @@ import java.lang.reflect.*;
 public class AccessPrivateField {
     public static void main(String[] args) {
         try {
-            Person p = new Person();
+            Human p = new Human();
             
             Class<?> cls = p.getClass();
             
@@ -24,6 +24,6 @@ public class AccessPrivateField {
     }
 }
 
-class Person {
+class Human {
     private int age = 18;
 }
