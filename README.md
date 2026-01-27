@@ -221,7 +221,9 @@ BridgeLabz-Training/
 - 📌 [Collections](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections)
 - 📌 [I/O Streams](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/streams)
 - 📌 [Exception Handling](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
-  
+- 📌 [Regex](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)
+- 📌 [Annotation](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)
+- 📌 [Reflection](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
 ---
 
 ---
