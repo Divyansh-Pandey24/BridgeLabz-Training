@@ -21,6 +21,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### 🔹 [java-collections-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Collections Framework in Java
+
+### 🔹 [java-iostreams-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
 ---
 
 ## 📂 Project Structure
@@ -90,6 +93,14 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|
 └── README.md
 ```
 
@@ -143,6 +154,12 @@ BridgeLabz-Training/
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 | 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
 ---
 
 ##  Key Concepts Covered
@@ -192,6 +209,9 @@ BridgeLabz-Training/
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
+### Java I/O Streams (java-iostreams-practice)
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+- **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 ---
 
 ## 🔗 Quick Links
@@ -236,6 +256,9 @@ BridgeLabz-Training/
 - 📌 [Annotation](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotation)
 - 📌 [Reflection](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
 - 📌 [Junit](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 ---
 
 ---
