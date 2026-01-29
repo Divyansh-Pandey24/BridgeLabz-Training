@@ -259,6 +259,7 @@ BridgeLabz-Training/
 
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
 ---
 
 ---
