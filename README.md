@@ -24,6 +24,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### 🔹 [java-iostreams-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-iostreams-practice)
 **Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
 ---
 
 ## 📂 Project Structure
