@@ -301,7 +301,8 @@ BridgeLabz-Training/
 
 ### `java8-programming-practice` :
 - 📌 [Lambda Expressions](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas)
-
+📌 [Method References](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/interfaces)
 
 ---
 
