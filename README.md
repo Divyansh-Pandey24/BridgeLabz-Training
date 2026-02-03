@@ -118,6 +118,8 @@ BridgeLabz-Training/
 │   │               └── 📁 streams/           # Stream API, intermediate & terminal operations
 │   │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
 │   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+│   │               └── 📁 designprinciples/  # SOLID principles, best practices, clean-code guidelines
+|   |
 |   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
@@ -188,7 +190,7 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
 | 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
-
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, GoF patterns, clean code principles                          |
 ---
 
 ##  Key Concepts Covered
@@ -306,6 +308,7 @@ BridgeLabz-Training/
 - 📌 [Streams](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams)
 - 📌 [Collectors](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshop/smartcity)
+- 📌 [Design Principles & Patterns](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/designprinciples/librarycasestudy)
 
 ---
 
