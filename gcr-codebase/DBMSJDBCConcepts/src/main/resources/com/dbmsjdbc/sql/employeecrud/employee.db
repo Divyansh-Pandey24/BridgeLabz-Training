@@ -1,0 +1,114 @@
+mysql> CREATE DATABASE practice_db;
+Query OK, 1 row affected (0.19 sec)
+
+mysql> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| practice_db        |
++--------------------+
+7 rows in set (0.01 sec)
+
+mysql> USE practice_db;
+Database changed
+mysql> DROP TABLE IF EXISTS employee;
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+mysql> CREATE TABLE employee(
+    -> employee_id INT PRIMARY KEY,
+    -> name VARCHAR(50) NOT NULL,
+    -> salary DECIMAL(10,2) NOT NULL,
+    -> department VARCHAR(40)
+    -> );
+Query OK, 0 rows affected (0.12 sec)
+
+mysql> DESC employee;
++-------------+---------------+------+-----+---------+-------+
+| Field       | Type          | Null | Key | Default | Extra |
++-------------+---------------+------+-----+---------+-------+
+| employee_id | int           | NO   | PRI | NULL    |       |
+| name        | varchar(50)   | NO   |     | NULL    |       |
+| salary      | decimal(10,2) | NO   |     | NULL    |       |
+| department  | varchar(40)   | YES  |     | NULL    |       |
++-------------+---------------+------+-----+---------+-------+
+4 rows in set (0.04 sec)
+
+mysql> INSERT INTO employee(employee_id, name, salary, department) VALUES
+    -> (1,'aki',55000,'OPerations'),
+    -> (2,'disha',60000,'Logistics'),
+    -> (3,'div',75000, 'Training'),
+    -> (4,'puri',68000,'Security'),
+    -> (5,'ashi',72000,'Compliance');
+Query OK, 5 rows affected (0.04 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+mysql> SELECT*FROM employee;
++-------------+-------+----------+------------+
+| employee_id | name  | salary   | department |
++-------------+-------+----------+------------+
+|           1 | aki   | 55000.00 | OPerations |
+|           2 | disha | 60000.00 | Logistics  |
+|           3 | div   | 75000.00 | Training   |
+|           4 | puri  | 68000.00 | Security   |
+|           5 | ashi  | 72000.00 | Compliance |
++-------------+-------+----------+------------+
+5 rows in set (0.00 sec)
+
+mysql> UPDATE employee
+    -> SET salary = 80000
+    -> WHERE name = 'disha';
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT*FROM employee WHERE name = 'disha';
++-------------+-------+----------+------------+
+| employee_id | name  | salary   | department |
++-------------+-------+----------+------------+
+|           2 | disha | 80000.00 | Logistics  |
++-------------+-------+----------+------------+
+1 row in set (0.00 sec)
+
+mysql> DELETE FROM employee
+    -> WHERE name = 'ashi';
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SELECT * FROM employee;
++-------------+-------+----------+------------+
+| employee_id | name  | salary   | department |
++-------------+-------+----------+------------+
+|           1 | aki   | 55000.00 | OPerations |
+|           2 | disha | 80000.00 | Logistics  |
+|           3 | div   | 75000.00 | Training   |
+|           4 | puri  | 68000.00 | Security   |
++-------------+-------+----------+------------+
+4 rows in set (0.00 sec)
+
+mysql> SELECT*FROM employee
+    -> WHERE name LIKE '%dish%';
++-------------+-------+----------+------------+
+| employee_id | name  | salary   | department |
++-------------+-------+----------+------------+
+|           2 | disha | 80000.00 | Logistics  |
++-------------+-------+----------+------------+
+1 row in set (0.01 sec)
+
+mysql> SELECT COUNT(*) AS total_employees FROM employee;
++-----------------+
+| total_employees |
++-----------------+
+|               4 |
++-----------------+
+1 row in set (0.02 sec)
+
+mysql> SELECT department, AVG(salary) AS avg_salary
+    -> FROM employee
+    -> GROUP BY department;
++------------+--------------+
+| department | avg_salary   |
++------------+--------------+
+| OPerations | 55000.000000 |
+| Logistics  | 80000.000000 |
+| Training   | 75000.000000 |
+| Security   | 68000.000000 |
++------------+--------------+
+4 rows in set (0.01 sec)
