@@ -31,6 +31,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-design-pattern-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-design-pattern-practice)
 **Week 7** : Java Design Principles & Design Patterns
 
+### 🔹 [https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8** : DBMS, SQL & JDBC Fundamentals
+
 ---
 
 ## 📂 Project Structure
@@ -133,8 +136,19 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
-│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
-|
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples
+|   |
+├── 📁 dbms-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DBMSJDBCConcepts/
+│   │       ├── 📁 src/
+│   │       │   └── 📁 main/
+│   │       │       └── 📁 resources/
+│   │       │           └── 📁 com/
+│   │       │               └── 📁 dbmsjdbc/
+│   │       │                   └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │
+│   │       └── pom.xml                             # Maven configuration and dependency management
 └── README.md
 ```
 
