@@ -31,7 +31,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-design-pattern-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-design-pattern-practice)
 **Week 7** : Java Design Principles & Design Patterns
 
-### 🔹 [https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice)
+### 🔹 [dbms-jdbc-practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice)
 **Week 8** : DBMS, SQL & JDBC Fundamentals
 
 ---
@@ -358,6 +358,7 @@ BridgeLabz-Training/
 - 📌 [Streams](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams)
 - 📌 [Collectors](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshop/smartcity)
+- 📌 [Scenario-Based Solutions](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java8-programming-practice/scenario-based-codebase/ScenarioPracticeJava8/src/com)
 
 ### `java-design-pattern-practice` :
 - 📌 [Design Principles & Patterns](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
