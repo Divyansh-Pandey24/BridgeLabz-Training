@@ -56,6 +56,16 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [DBMS & SQL Practice](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
 
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 35 – Scenario-Based Practice  
+**(Date: 07-Feb-2026)**
+- Solved **6** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice/scenario-based-codebase/ScenarioPracticeMYSQL/src/main/resources/com/sql)
+
 ---
 ## 🎓 Learnings & Best Practices
 
