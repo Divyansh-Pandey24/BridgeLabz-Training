@@ -367,6 +367,8 @@ BridgeLabz-Training/
 
 ### `dbms-jdbc-practice` :
 - 📌 [DBMS, MySQL & SQL](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
+- 📌 [Scenario-Based Solutions](https://github.com/Divyansh-Pandey24/BridgeLabz-Training/tree/dbms-jdbc-practice/scenario-based-codebase/ScenarioPracticeMYSQL/src/main/resources/com/sql)
+
 ---
 
 ---
